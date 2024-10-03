@@ -1,4 +1,4 @@
-# ziming - Fab Academy documentation
+# ziming - MDEF documentation
 
 Visit [fabacademy.org](https://fabacademy.org/) for class and other information.
 
