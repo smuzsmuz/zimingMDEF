@@ -1,3 +1,3 @@
 # 🧿 Home
 
-{% embed url="https://soundcloud.com/smuzzzzzz/11a1?si=101de59a11e34ee287c02e5bb506f52a&utm_campaign=social_sharing&utm_medium=text&utm_source=clipboard" fullWidth="true" %}
+{% embed url="https://soundcloud.com/smuzzzzzz/8-what-is-heaven?si=ea22a22f69ed4e47bb430458c9b79e2b&utm_campaign=social_sharing&utm_medium=text&utm_source=clipboard" %}
