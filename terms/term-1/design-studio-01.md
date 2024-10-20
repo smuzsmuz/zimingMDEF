@@ -13,3 +13,14 @@ The community is formed by each individuals by the co-creation of different feel
 <figure><img src="../../.gitbook/assets/Untitled (3).jpg" alt=""><figcaption><p>Multiscaling Thinking: Scaling up and down</p></figcaption></figure>
 
 My community of practice: IAAC, my rommie, friends, clients, skatepark ;)
+
+
+
+***
+
+## Audio Reflection&#x20;
+
+{% file src="../../.gitbook/assets/audio record.mp3" %}
+
+
+
