@@ -25,6 +25,10 @@ I studied Fashion Business Management. Working as a tattooist for five years, an
 
 <figure><img src=".gitbook/assets/微信图片_20241013183955.jpg" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+I stil  find it hard to express myself in any language, so I use a lot of music and visuals ;D
+{% endhint %}
+
 <mark style="background-color:orange;">Place I had lived that made a influence:</mark>
 
 Chengdu, China || San Antonio, TX, US || New York, US || Florence, Italy || Barcelona, Spain ||
