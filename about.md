@@ -25,15 +25,15 @@ I studied Fashion Business Management. Working as a tattooist for five years, an
 
 <figure><img src=".gitbook/assets/微信图片_20241013183955.jpg" alt=""><figcaption></figcaption></figure>
 
-Place I had lived that made a influence:
+<mark style="background-color:orange;">Place I had lived that made a influence:</mark>
 
 Chengdu, China || San Antonio, TX, US || New York, US || Florence, Italy || Barcelona, Spain ||
 
 ```
-// Feelings and Earth influence me to create.
+Feelings and Earth influence me to create.
 ```
 
-Creation media:
+<mark style="background-color:orange;">Creation media:</mark>
 
 Tattoos, Music, Painting, Movement, Traveling.
 
