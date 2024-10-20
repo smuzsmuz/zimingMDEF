@@ -1,5 +1,11 @@
 # Design Studio 01
 
+{% embed url="https://soundcloud.com/smuzzzzzz/presence?si=0b72883ec89d4c8bb9e2bc406e6c1a43&utm_campaign=social_sharing&utm_medium=text&utm_source=clipboard" %}
+Enjoy the music and my Design Space!
+{% endembed %}
+
+
+
 <figure><img src="../../.gitbook/assets/Untitled.jpg" alt=""><figcaption><p>My Design space</p></figcaption></figure>
 
 
