@@ -4,6 +4,8 @@
 Enjoy the music and my Design Space!
 {% endembed %}
 
+{% embed url="https://www.figma.com/board/7DSdomXmDjRQMORNsewKQo/Design-Studio?node-id=0-1&t=yf5o08KwuUP9Qe1a-1" %}
+
 
 
 <figure><img src="../../.gitbook/assets/Untitled.jpg" alt=""><figcaption><p>My Design space</p></figcaption></figure>
