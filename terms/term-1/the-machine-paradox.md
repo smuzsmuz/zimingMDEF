@@ -24,7 +24,7 @@ This was a new experience for me that I had never dissembled any electronics bef
 
 ## Week II. Re-create a machine
 
-Through
+Through discussion, we decided to reverse engineer the stove into an audio reaction stove with human interaction. It consists three input: a knob, a button, and conductive sensor; two output: a speaker, LED lights; a controller (DFPlayer mini) and our Barduino.
 
 <figure><img src="../../.gitbook/assets/WechatIMG881.jpg" alt="" width="375"><figcaption><p>First prototype and final electronic assembly</p></figcaption></figure>
 
@@ -38,3 +38,6 @@ Final video
 
 {% embed url="https://drive.google.com/file/d/1SMzNbfdXROlWxank0qTy2c1AN3Ax2RTG/view?usp=sharing" %}
 
+#### Refection
+
+We came up with some other ideas of using the sound reactive motor and wifi signal detector, eventually we started with the stove idea because it is the most approachable plan, and the easiest to start. I explored a lot in the process of building arduino and coding with arduino IDE. At first I wanted to give up when we had some connection problem with DFPlayer mini, but then still get the chip to work. During the whole process, I appreciated all the help we can get from the instructors and classmates, the most precious thing is that how we learned another way to think, create and work with each other.
