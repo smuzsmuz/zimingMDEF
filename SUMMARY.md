@@ -3,7 +3,7 @@
 * [🧿 Home](README.md)
 * [🪬 About](about.md)
 * [🪞 Terms](terms/README.md)
-  * [Term 1](terms/term-1/README.md)
+  * [🕸️ Term 1](terms/term-1/README.md)
     * [Landing](terms/term-1/landing.md)
     * [Design Studio 01](terms/term-1/design-studio-01.md)
     * [Documentation Design](terms/term-1/documentation-design.md)
