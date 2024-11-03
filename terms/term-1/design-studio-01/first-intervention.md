@@ -1,3 +1,7 @@
+---
+icon: heart
+---
+
 # First intervention
 
 {% embed url="https://youtu.be/vr5Bpib_9SM" %}
