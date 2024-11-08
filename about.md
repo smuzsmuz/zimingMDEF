@@ -21,7 +21,7 @@ layout:
 
 Hi, My name is Ziming Shang.&#x20;
 
-I studied Fashion Business Management. Working as a tattooist for five years, and also working for sound designing, music production and music performance ;)
+I studied Fashion Business Management, has been working as a tattooist for five years, and also working for sound designing, music production and music performance ;)
 
 <figure><img src=".gitbook/assets/微信图片_20241013183955.jpg" alt=""><figcaption></figcaption></figure>
 

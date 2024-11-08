@@ -6,7 +6,7 @@ icon: heart
 
 {% embed url="https://youtu.be/vr5Bpib_9SM" %}
 
-This intevention is a sound design experiement for our MDEF classroom.&#x20;
+This intervention is a sound design experiement for our MDEF classroom.&#x20;
 
 The purpose:
 
