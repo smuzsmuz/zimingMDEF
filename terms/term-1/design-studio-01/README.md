@@ -6,7 +6,7 @@
 
 
 
-<figure><img src="../../../.gitbook/assets/Untitled.jpg" alt=""><figcaption><p>My Design space</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Untitled.jpg" alt=""><figcaption><p>Beginning stage</p></figcaption></figure>
 
 
 
