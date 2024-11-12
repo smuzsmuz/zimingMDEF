@@ -31,10 +31,17 @@ I still find it hard to express myself in any language, so I use a lot of music 
 
 <mark style="background-color:orange;">Place I had lived that made a influence:</mark>
 
-Chengdu, China || San Antonio, TX, US || New York, US || Florence, Italy || Barcelona, Spain ||
+Chengdu, China || Kunming, China || San Antonio, TX, US || New York, US || Florence, Italy || Barcelona, Spain ||
 
 ```
 Feelings and Earth influence me to create.
+I am empathetic and is very sensitive
+to emotions,especially pain,fear and anxiety,
+So I need to use artistic expression to transform those forms, 
+otherwise they consume me.
+I also create when I experience Love.
+Alchemy with powerful human collective and universal collective.
+As years passing, the particle of me is getting more delicate and more sensitive ❤
 ```
 
 <mark style="background-color:orange;">Creation media:</mark>
