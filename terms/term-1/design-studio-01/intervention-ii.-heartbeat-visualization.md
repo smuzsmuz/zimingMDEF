@@ -51,7 +51,9 @@ Using the serial reading signal from Arduino read from AD8232, sending it throug
 
 ## What do we want to learn from this experiement?
 
-&#x20;At first, we thought to create a multi triggering senario which combines smell, sound and touch for the person who will wear the heart sensor, but then we thought it was too complicate for this project to start, and smell, sound, touch are too many variables to make an observation at last. So we minimize the input into only sound.
+&#x20;At first, we thought to create a multi triggering senario which combines smell, sound and touch for the person who will wear the heart sensor, but then we thought it was too complicate for this project to start, and smell, sound, touch are too many variables to make an observation at last. So we minimize the input into only sound. We put our favorite songs into one track as the input.
+
+“What was that like, watching your digital heart beat?”
 
 **Personal feeling:**
 
