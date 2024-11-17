@@ -38,6 +38,6 @@ Talk about how I feel in the beginning of MDEF
 
 ***
 
-## First Intervention 04/11 [first-intervention.md](first-intervention.md "mention")
+## First Intervention 04/11 [intervention-i.-sound-design.md](intervention-i.-sound-design.md "mention")
 
 Sound Design Experiement 001

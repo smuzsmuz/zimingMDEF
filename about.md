@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/微信图片_20241013184003.jpg
+cover: .gitbook/assets/微信图片_20241013184003 (1).jpg
 coverY: -319
 layout:
   cover:
