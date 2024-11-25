@@ -13,6 +13,7 @@
     * [Fundamentals of Digital Fabrication](terms/term-1/fundamentals-of-digital-fabrication.md)
     * [Living with your own ideas](terms/term-1/living-with-your-own-ideas.md)
     * [Extended Intelligences](terms/term-1/extended-intelligences.md)
+    * [Design with Others](terms/term-1/design-with-others.md)
   * [Term 2](terms/term-2.md)
   * [Term 3](terms/term-3.md)
 * [🎐 Final Project](final-project.md)
