@@ -8,6 +8,7 @@
     * [Design Studio 01](terms/term-1/design-studio-01/README.md)
       * [Intervention I. Sound Design](terms/term-1/design-studio-01/intervention-i.-sound-design.md)
       * [Intervention II. Heartbeat Visualization](terms/term-1/design-studio-01/intervention-ii.-heartbeat-visualization.md)
+      * [Intervention III. Sensation Map](terms/term-1/design-studio-01/intervention-iii.-sensation-map.md)
     * [Documentation Design](terms/term-1/documentation-design.md)
     * [The Machine Paradox](terms/term-1/the-machine-paradox.md)
     * [Fundamentals of Digital Fabrication](terms/term-1/fundamentals-of-digital-fabrication.md)
