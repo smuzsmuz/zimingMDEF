@@ -41,3 +41,26 @@ Talk about how I feel in the beginning of MDEF
 ## First Intervention 04/11 [intervention-i.-sound-design.md](intervention-i.-sound-design.md "mention")
 
 Sound Design Experiement 001
+
+***
+
+## Second Intervention [intervention-ii.-heartbeat-visualization.md](intervention-ii.-heartbeat-visualization.md "mention")
+
+Heartbeat sensor visualization based on different kinds of music
+
+***
+
+## Third Intervention [intervention-ii.-heartbeat-visualization.md](intervention-ii.-heartbeat-visualization.md "mention")
+
+Map data collectoin based on emotions at different locations in Barcelona, with video and audio
+
+***
+
+## 1st Term Submission
+
+The pictorial of the first term will include my first version of design space, three interventions showing with pictures and short explaination. And I will locate each intervention in my design space, to organize  and obeserve the relations among all the topics.&#x20;
+
+
+
+
+
