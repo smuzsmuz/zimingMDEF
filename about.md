@@ -35,13 +35,13 @@ Chengdu, China || Kunming, China || San Antonio, TX, US || New York, US || Flore
 
 ```
 Feelings and Earth influence me to create.
-I am empathetic and is very sensitive
-to emotions,especially pain,fear and anxiety,
-So I need to use artistic expression to transform those forms, 
+I am empathetic and aware
+
+I need to use artistic expression to transform those forms, 
 otherwise they consume me.
 I also create when I experience Love.
 Alchemy with powerful human collective and universal collective.
-As years passing, the particle of me is getting more delicate and more sensitive ❤
+As years passing, the particle of me is getting more delicate ❤
 ```
 
 <mark style="background-color:orange;">Creation media:</mark>
