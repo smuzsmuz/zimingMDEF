@@ -26,7 +26,10 @@ I studied Fashion Business Management, has been working as a tattooist for five 
 <figure><img src=".gitbook/assets/微信图片_20241013183955.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-I still find it hard to express myself in any language, so I use a lot of music and visuals ;D
+My Macro interests:
+
+1. **Sustainable communication/community**: ongoing support, reasonable critism, resonable encouragement, being aware of environmental trend, and adequate self reflection.
+2. **Musical Healing and Co-creation**: study different sound effects in biological form and physics form, using them to bring optimal influence to human body and including environmental nature sound as a part.
 {% endhint %}
 
 <mark style="background-color:orange;">Place I had lived that made a influence:</mark>
