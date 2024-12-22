@@ -16,11 +16,15 @@ Some plants are the indication of sign of water.
 
 <div><figure><img src="../../.gitbook/assets/leaf.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/plant 7.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/plant6.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/plant4.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/insect.jpg" alt=""><figcaption><p>insect</p></figcaption></figure></div>
 
-&#x20;                                                                                        Greenhouse
+&#x20;                                                                                    Greenhouse
 
 <div><figure><img src="../../.gitbook/assets/green house 1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/green house2.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/green house3.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/green house4.jpg" alt=""><figcaption></figcaption></figure></div>
 
 Our Group\~&#x20;
 
 <div><figure><img src="../../.gitbook/assets/group.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/group4.jpg" alt=""><figcaption></figcaption></figure></div>
+
+## Food Forests and Miyawaki Forests
+
+In the group discussion, Paula, Erik and me came up with the idea to combine food forests and Miyawaki forests to create a self sustained eco-food environment that would take the first 10 years to grow, plan and care for the forests.&#x20;
 

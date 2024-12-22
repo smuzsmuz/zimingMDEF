@@ -6,11 +6,15 @@
 
 
 
-<figure><img src="../../../.gitbook/assets/Untitled.jpg" alt=""><figcaption><p>Beginning stage</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Untitled.jpg" alt=""><figcaption><p>Term 1 beginning version</p></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/微信图片_20241222230856.jpg" alt=""><figcaption><p>Term 1 Ending versoin</p></figcaption></figure>
+
+Atlas of Weak Signal
 
 <figure><img src="../../../.gitbook/assets/Untitled (1).jpg" alt=""><figcaption><p>Experiement within community </p></figcaption></figure>
 
-Area of opportunity: Co-Creation, Blockchain and Multi-scalar Thinking &#x20;
+**Area of opportunity**: Co-Creation, Blockchain and Multi-scalar Thinking &#x20;
 
 {% hint style="info" %}
 The **community** is formed by each individuals by the co-creation of different feelings and minds. With muilti-scalar thinking and blockchain, there would be more possibilities to share knowledge and ideas online and offline.
@@ -22,7 +26,17 @@ The **community** is formed by each individuals by the co-creation of different 
 
 **My community of practice**: IAAC, my rommie, friends, clients, skatepark ;)
 
+***
 
+## Extended Workspace
+
+<figure><img src="../../../.gitbook/assets/微信图片_20241222235505.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/微信图片_20241222235523.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/微信图片_20241222235528.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/微信图片_20241222235538.jpg" alt=""><figcaption></figcaption></figure>
 
 ***
 
