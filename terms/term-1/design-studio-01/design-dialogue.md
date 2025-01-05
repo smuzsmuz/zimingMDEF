@@ -14,6 +14,10 @@ It was very helpful to listen to feedback from different people with different b
 
 Some people reflected that during listening to the music and looking at mandala, they want to dance instead of drawing. This comment help me to realize that different type of expression exist, where we human use different part of our body/brain to react, so it becomes various forms of expression.&#x20;
 
+{% embed url="https://drive.google.com/file/d/1Icn_a408VBofH1QfXPjTOp0SECp_zLPj/view?usp=drive_link" %}
+
+
+
 ***
 
 
