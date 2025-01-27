@@ -1,2 +1,0 @@
-# Situated Design Practice
-
