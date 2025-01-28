@@ -20,6 +20,7 @@
     * [Agriculture Zero](terms/term-1/agriculture-zero.md)
   * [🌝 Term 2](terms/term-2/README.md)
     * [Design Studio 02](terms/term-2/design-studio-02.md)
+    * [Communicating Ideas](terms/term-2/communicating-ideas.md)
     * [Situacted Design Practices](terms/term-2/situacted-design-practices.md)
     * [Living Materials](terms/term-2/living-materials.md)
     * [Collective Intelligence](terms/term-2/collective-intelligence.md)
