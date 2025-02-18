@@ -126,9 +126,11 @@ This Golden Circle framework helps clearly articulate the heart of your project�
 {% step %}
 me: The final purpose statement should be no longer than a tweet (280 characters) and should clearly express the core inspiration behind the project.
 
-This project empowers young creatives to stay true to their passion and ethics, providing a space for reflection, strength, and connection through music, visuals, and movement. It’s a call to believe in oneself and keep creativity alive, even in the face of societal pressures.
+**This project empowers young creatives to stay true to their passion and ethics, providing a space for reflection, strength, and connection through music, visuals, and movement. It’s a call to believe in oneself and keep creativity alive, even in the face of societal pressures.**
 {% endstep %}
 {% endstepper %}
+
+***
 
 
 

@@ -38,7 +38,13 @@ renovated factory, community radio, art space
 
 Jokkoo collective's intention is clear and straight forward, which in my understanding is to construct a community especially for artists who are foreign to Barcelona but now is based in Barcelona to have a space to perform and show the talents, and also is a platform for creators and people with similar interests to come together.
 
-Similar to Cal Negre, they are relationship-community oriented drive.
+We collected sounds individually, and then we sampled all of our sounds and made a aollective jam!
+
+{% embed url="https://drive.google.com/file/d/11TdIs_6kujSYTTWIDZI6kYhIo6Ceg-DK/view?usp=sharing" %}
+
+***
+
+## 04 Ben Ditto
 
 
 
