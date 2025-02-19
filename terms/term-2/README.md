@@ -1,4 +1,4 @@
-# 🌝 Term 2
+# 🦋 Term 2
 
 <table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Design Studio 02</td><td><a href="design-studio-02/">design-studio-02</a></td><td></td></tr><tr><td>Situated Design Practices</td><td><a href="situacted-design-practices.md">situacted-design-practices.md</a></td><td><a href="../../.gitbook/assets/IMG_2854.gif">IMG_2854.gif</a></td></tr><tr><td>Living Materials</td><td><a href="living-materials.md">living-materials.md</a></td><td><a href="../../.gitbook/assets/IMG_2856 (1).gif">IMG_2856 (1).gif</a></td></tr><tr><td>Collective Intelligences</td><td><a href="collective-intelligence.md">collective-intelligence.md</a></td><td></td></tr><tr><td>Communicating Ideas</td><td></td><td></td></tr></tbody></table>
 

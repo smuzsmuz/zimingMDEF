@@ -27,6 +27,6 @@
     * [Living Materials](terms/term-2/living-materials.md)
     * [Collective Intelligence](terms/term-2/collective-intelligence.md)
     * [Micro Challenge](terms/term-2/micro-challenge/README.md)
-      * [GSR sensor with pH indicator and ferrofluid](terms/term-2/micro-challenge/gsr-sensor-with-ph-indicator-and-ferrofluid.md)
+      * [Bio-electronic interface for body response](terms/term-2/micro-challenge/gsr-sensor-with-ph-indicator-and-ferrofluid.md)
   * [Term 3](terms/term-3.md)
 * [🎐 Final Project](final-project.md)
