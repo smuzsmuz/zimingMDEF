@@ -18,7 +18,7 @@
     * [Design with Others](terms/term-1/design-with-others.md)
     * [Biology Zero](terms/term-1/biology-zero.md)
     * [Agriculture Zero](terms/term-1/agriculture-zero.md)
-  * [🌝 Term 2](terms/term-2/README.md)
+  * [🦋 Term 2](terms/term-2/README.md)
     * [Design Studio 02](terms/term-2/design-studio-02/README.md)
       * [Intervention: music journal](terms/term-2/design-studio-02/intervention-music-journal.md)
       * [Intervention: Understanding GSR sensor](terms/term-2/design-studio-02/intervention-understanding-gsr-sensor.md)

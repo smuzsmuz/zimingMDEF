@@ -1,3 +1,9 @@
+---
+description: >-
+  I am developing different aspects of Self, and I would like to play them at
+  the same time in my background reality.
+---
+
 # Design Studio 02
 
 A personalized developed design space

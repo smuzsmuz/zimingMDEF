@@ -46,7 +46,17 @@ We collected sounds individually, and then we sampled all of our sounds and made
 
 ## 04 Ben Ditto
 
+Personally Ben's presentation is very helpful.
 
+I was always curious about what is behind these cyber active people that are always posting (too) many information which made me feel so choatic.
 
+Today, ben ditto solved my mystery. The most interesting fact about him is that he really enjoys shit posting and surfing on internet, he doesn't think it's a waste of time to be on social media.
 
+Everybody is doing the same thing, scrolling on internet, but with different mindset and intention, the purpose and the outcome change.&#x20;
+
+I used to be super careful about what i share online, that I didn't like to share "wrong" information to people, until today I heard Ben said he likes to "mess with people's mind" (if I remembered correctly). I felt relief. >3< Why so serious?
+
+Then I tried applying Ben Ditto's mindset for my internet surfing time, it was fun and  I found more possibility on the internet to explore.
+
+Object is just an object, tool is a tool, phenomenon is phenomenon. Human like to add all sort of explanation onto the natural state of being. We are the one who can decide what filter to add on Being in order to achieve what we want, consciously or uncousciously.
 
