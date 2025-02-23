@@ -60,3 +60,13 @@ Then I tried applying Ben Ditto's mindset for my internet surfing time, it was f
 
 Object is just an object, tool is a tool, phenomenon is phenomenon. Human like to add all sort of explanation onto the natural state of being. We are the one who can decide what filter to add on Being in order to achieve what we want, consciously or uncousciously.
 
+***
+
+## Reflection
+
+After the four visits, my idea of what I want to do became clearer. I always wanted a space where I can merge my interests together. Although right now a physical space is not happening, and I am still doubting whether a physical space is necessary, I can always merge though interests online. With some inspirational feelings from Ben Ditto, I feel less stressed when I post online.
+
+A situated design has its core value and motivation, usually it is unseen, and it is within the heart. That CORE is the fuel to encourage collectives or individuals to create and evolve. By doing things that we want to do, we are gradually becoming closer to our CORE. The process of doing is already IT.
+
+
+
