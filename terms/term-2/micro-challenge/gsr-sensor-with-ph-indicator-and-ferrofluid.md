@@ -4,6 +4,10 @@ icon: '1'
 
 # Bio-electronic interface for body response
 
+<figure><img src="../../../.gitbook/assets/final.jpg" alt=""><figcaption></figcaption></figure>
+
+
+
 {% tabs %}
 {% tab title="Team members" %}
 [Javier Serra](https://javierserraa.gitbook.io/term-2/undefined/microchallenges)&#x20;
@@ -14,7 +18,7 @@ icon: '1'
 {% endtab %}
 
 {% tab title="Initial interest" %}
-Carlos brought a strong focus on **healthcare applications**, exploring how technology could enhance well-being and monitor physiological signals. Ziming and I leaned more towards **artistic expression** and **body sensing**, aiming to capture and communicate **emotional responses** through wearable technology. This fusion of perspectives inspired the concept of a device that not only monitors the body but also serves as a form of **self-expression**.
+Carlos brought a strong focus on **healthcare applications**, exploring how technology could enhance well-being and monitor physiological signals. Javi and I are interested more towards **artistic expression** and **body sensing**, aiming to capture and communicate **emotional responses** through wearable technology. This fusion of perspectives inspired the concept of a device that not only monitors the body but also serves as a form of **self-expression**.
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2025-02-19 160034.png" alt="" width="563"><figcaption></figcaption></figure>
 {% endtab %}
@@ -53,4 +57,109 @@ The device features two key layers: a **pH-reactive hydrogel** with **Bromothymo
 {% embed url="https://drive.google.com/file/d/18lQgEMaoyEOijOJ8IMTKMI7gQQIPH6sf/view?usp=sharing" %}
 
 4. **Wearable Design and Molding:** The device was designed to be worn on the neck, with **3D-printed molds** used for silicone casting. Some materials were too fragile, and we found that **thinner silicone walls** improve the electromagnetic response. Adjustments are needed to optimize the mold design, possibly replacing the hydrogel with **liquid-filled capsules** for clearer sweat visualization.
+
+{% code overflow="wrap" %}
+````cpp
+
+#define BTN_PIN 7
+#define BTN_PINUP 6
+#define EM_PIN  8
+int GSR = A5;
+//int POTPIN = A0;
+int sensorValue=0;
+int gsr_average=0;
+// Adjust the value using the clamp function
+  int minValue = 380;
+  int maxValue = 379;
+
+
+ 
+unsigned long T1 = 0, T2 = 0;
+uint8_t TimeInterval = 1; // 5ms
+ 
+void setup() {
+  Serial.begin(9600);
+  pinMode(BTN_PIN, INPUT);
+  pinMode(EM_PIN, OUTPUT);
+  DDRB |= (1 << DDB1) | (1 << DDB2);                     // Set ports
+  TCCR1A = (1 << COM1A1) | (1 << COM1B1) | (1 << WGM11); // Fast PWM mode    
+  TCCR1B = (1 << WGM12) | (1 << WGM13) | (1 << CS10);    // Fast PWM mode, no clock prescaling possible
+  OCR1A = 3240;                                          // Start PWM just below MOSFET turn on
+  ICR1 = 8191;   
+}
+ 
+void loop() {
+  
+  
+  long sum=0;
+  for(int i=0;i<10;i++)           //Average the 10 measurements to remove the glitch
+      {
+      sensorValue=analogRead(GSR);
+      sum += sensorValue;
+      delay(1);
+      }
+   gsr_average = sum/10;
+   Serial.print("GSR Average:");
+   Serial.println(gsr_average);//*
+   int human_resistance = ((1024+2*gsr_average)*10000000)/(516-gsr_average);
+   Serial.print("human_resistance=");
+   Serial.println(human_resistance);
+   delay(1);
+  
+  
+
+  // Use the function to clamp the value within the given range
+  //int adjustedValue = clampValueToRange(gsr_average, minValue, maxValue);
+  //clampValueToRange(gsr_average, minValue, maxValue);
+  if (gsr_average < minValue) {
+    minValue = gsr_average;  // Set to the minimum if the value is below minValue
+  } else if (gsr_average > maxValue) {
+    maxValue = gsr_average;  // Set to the maximum if the value is above maxValue
+  } else{}
+  // Print the original and adjusted values
+  Serial.print("Original Value: ");
+  Serial.print(gsr_average);
+  Serial.print("  Adjusted Value: ");
+  //Serial.println(adjustedValue);
+
+  Serial.print("MinValue: ");
+  Serial.println(minValue);
+  Serial.print("MaxValue: ");
+  Serial.println(maxValue);
+  delay(600);  // Wait a bit before reading again
+
+  T2 = millis();
+  
+  if( (T2-T1) >= TimeInterval) // Every 5ms
+  {
+    int mappedvalue = map(gsr_average,minValue,maxValue,3242,8191);
+    Serial.print("Mappedvalue:");
+    Serial.println(mappedvalue);//*
+    // Read The Electromagnet Enable Button State
+    //int test = 8100;
+    //analogWrite(A1,test); // This writes the power to the Mosfet from 0-1024.
+    //3242-8191
+
+    OCR1A = mappedvalue;
+    T1 = millis(); 
+  }
+}
+ 
+
+
+```
+````
+{% endcode %}
+
+
+
+
+
+***
+
+### Reflection
+
+* In order to finish the prototye, we still need to fill the ferrofluid into the mold. The ferrofluid we found in fablab can be carried in saltwater.
+* The data that GSR sensor collects is very steady, we tried to map the data range in coding to make a obvious change for electricity current that go through the electromagnet, but the change was still tiny to make the movement in ferrofluid.&#x20;
+* It was a lot of tasks to complete for 4 days
 
