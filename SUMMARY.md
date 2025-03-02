@@ -22,6 +22,7 @@
     * [Design Studio 02](terms/term-2/design-studio-02/README.md)
       * [Intervention: music journal](terms/term-2/design-studio-02/intervention-music-journal.md)
       * [Intervention: Understanding GSR sensor](terms/term-2/design-studio-02/intervention-understanding-gsr-sensor.md)
+      * [Intervention: Improvisation Tattoo](terms/term-2/design-studio-02/intervention-improvisation-tattoo.md)
     * [Communicating Ideas](terms/term-2/communicating-ideas.md)
     * [Situacted Design Practices](terms/term-2/situacted-design-practices.md)
     * [Living Materials](terms/term-2/living-materials.md)
