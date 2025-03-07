@@ -29,6 +29,8 @@
     * [Collective Intelligence](terms/term-2/collective-intelligence.md)
     * [Micro Challenge](terms/term-2/micro-challenge/README.md)
       * [Bio-electronic interface for body response](terms/term-2/micro-challenge/gsr-sensor-with-ph-indicator-and-ferrofluid.md)
+      * [Human-microenvironment interaction](terms/term-2/micro-challenge/human-microenvironment-interaction.md)
+    * [H(n)MI](terms/term-2/h-n-mi.md)
     * [Extended Intelligences II](terms/term-2/extended-intelligences-ii.md)
   * [Term 3](terms/term-3.md)
 * [🎐 Final Project](final-project.md)
