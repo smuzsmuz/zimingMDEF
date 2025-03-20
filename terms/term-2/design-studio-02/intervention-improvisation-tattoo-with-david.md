@@ -2,7 +2,7 @@
 icon: '3'
 ---
 
-# Intervention: Improvisation Tattoo
+# Intervention: Improvisation Tattoo with David
 
 This intervention is a imrpovised tattoo session with David at the foot of the mountain.
 
@@ -35,4 +35,8 @@ conversation off: dotted line
 I feel very fulfilled and happy after this tattoo session. I have been always thinking about non-conventional ways to make tattoo, and freehand is my favorite way. By using conversation as a input element to trigger the pattern so that both me and David could contribute to the pattern is what I am looking for in this mutual communication of tattoo session.
 
 And also this is a performance to express of the present moment, we both focus and enjoy the present moment of the communication in seen and unseen way.&#x20;
+
+{% embed url="https://youtu.be/71pGSKFcLOA?si=NP53lbkmqm6Fsnig" %}
+
+
 
