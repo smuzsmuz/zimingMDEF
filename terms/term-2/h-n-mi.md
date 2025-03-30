@@ -261,7 +261,7 @@ To enhance the live experience, we implemented real-time reactive visuals synchr
 
 Our Conductive Noise Orchestra demonstrated how hand gestures could transform digital instruments into expressive tools, blurring the lines between body movement, technology, and sound composition.
 
-<figure><img src="../../.gitbook/assets/WhatsAppVideo2025-03-01at13.23.56_3c7e5953-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/WhatsAppVideo2025-03-01at13.23.56_3c7e5953-ezgif.com-video-to-gif-converter (1).gif" alt=""><figcaption></figcaption></figure>
 
 
 

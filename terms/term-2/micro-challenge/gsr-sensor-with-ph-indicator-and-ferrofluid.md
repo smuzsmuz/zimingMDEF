@@ -4,7 +4,7 @@ icon: '1'
 
 # Bio-electronic interface for body response
 
-<figure><img src="../../../.gitbook/assets/final.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/final (1).jpg" alt=""><figcaption></figcaption></figure>
 
 
 
