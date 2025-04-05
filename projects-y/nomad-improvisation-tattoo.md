@@ -18,7 +18,9 @@ icon: down-left-and-up-right-to-center
 Ongoing
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Untitled (4).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/23 (1).jpg" alt=""><figcaption></figcaption></figure>
+
+
 
 ## Playlist
 

@@ -132,6 +132,12 @@ me: The final purpose statement should be no longer than a tweet (280 characters
 
 ***
 
+## Social Media Account
+
+{% embed url="https://www.instagram.com/zimingshangg?igsh=MXZ4aTNneHBlZGRjYw==&utm_source=qr" %}
+
+
+
 
 
 
