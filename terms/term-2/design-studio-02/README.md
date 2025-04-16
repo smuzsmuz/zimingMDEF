@@ -67,3 +67,9 @@ I found it hard to make a framework for my concept. Everytime when it comes to s
 ## Picotrial draft
 
 {% file src="../../../.gitbook/assets/pictorial.pdf" %}
+
+### Peer interpretation postcard for Carlos
+
+This is an abstract drawing for Carlos based on biology and geometry about life.
+
+<figure><img src="../../../.gitbook/assets/carlos.jpg" alt=""><figcaption></figcaption></figure>
