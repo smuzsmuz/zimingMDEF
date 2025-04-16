@@ -62,3 +62,8 @@ After getting feedback from some help, I realize for all of my experiments I am 
 
 I found it hard to make a framework for my concept. Everytime when it comes to summarise and organize work, I don't feel like doing it. Not sure if I am rejecting to do such work or I don't feel necessary to do it. Logically organizing the concept is a very good thing to communicate with other people, but if my body don't feel like doing it, maybe it is not the time yet.
 
+***
+
+## Picotrial draft
+
+{% file src="../../../.gitbook/assets/pictorial.pdf" %}
