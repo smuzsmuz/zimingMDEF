@@ -38,7 +38,7 @@
     * [Research Trip](terms/term-3/research-trip.md)
     * [Design Studio 03](terms/term-3/design-studio-03.md)
     * [MicroChallenge (MDEFest)](terms/term-3/microchallenge-mdefest.md)
-* [🎐 Master Thesis](master-thesis.md)
+* [🎐 PUPA](pupa.md)
 * [🕉️ PROJECTS ＳⲠⲠϋ☡](projects-y/README.md)
   * [NOMAD IMPROVISATION TATTOO](projects-y/nomad-improvisation-tattoo.md)
   * [MUSIC JAM](projects-y/music-jam.md)
