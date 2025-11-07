@@ -1,20 +1,6 @@
 ---
 cover: .gitbook/assets/微信图片_20241013184003 (1).jpg
 coverY: -319
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 🪬 About

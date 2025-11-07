@@ -12,7 +12,7 @@ Currently ongoing
 try different rules and setting for the environment
 {% endhint %}
 
-## :black\_circle:[music-jam.md](music-jam.md "mention")
+## :black\_circle:[information-worm-music.md](information-worm-music.md "mention")
 
 Иомаↁіс мцѕіс Јам
 
