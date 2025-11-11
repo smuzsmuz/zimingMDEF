@@ -8,7 +8,7 @@ This practice of roaming improvisation tattoo explores form of intuitive, collab
 
 {% embed url="https://vimeo.com/1093525338?share=copy" %}
 
-The ;ast stage of this project will happen during MDEFest at Les Tres Xemeneies on 19th June, 2025.
+The last stage of this project will happen during MDEFest at Les Tres Xemeneies on 19th June, 2025.
 
 No. 7  The end of the cycle
 
@@ -17,3 +17,7 @@ I will wear a LED dress reacting with Vitti (I'm going to tattoo her)'s heartbea
 <div><figure><img src=".gitbook/assets/1 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/2.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/3.jpg" alt=""><figcaption></figcaption></figure></div>
 
 <div><figure><img src=".gitbook/assets/4.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/5.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/6.jpg" alt=""><figcaption></figcaption></figure></div>
+
+No.7 Les Tres Xemenies
+
+<figure><img src=".gitbook/assets/8.jpg" alt=""><figcaption></figcaption></figure>
