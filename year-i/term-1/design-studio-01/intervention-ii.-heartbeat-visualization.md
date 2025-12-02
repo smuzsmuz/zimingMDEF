@@ -25,19 +25,7 @@ At the beginning of the discussion, we desided the topic of our project is about
 
 [The AD8232 from Analog Devices is a dedicated single lead heart rate monitor front end integrated circuit. The AD8232 is an integrated signal conditioning block for ECG and other biopotential measurement applications. It is designed to extract, amplify, and filter small biopotential signals in the presence of noisy conditions, such as those created by motion or remote electrode placement.](https://theorycircuit.com/arduino-projects/heart-rate-monitor-ad8232-interface-arduino/)
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/AD8232-Pinout.jpg" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/IMG_1492.JPG" alt="" width="375"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/heart-rate-sensor-arduino.png" alt=""><figcaption><p><a href="https://theorycircuit.com/arduino-projects/heart-rate-monitor-ad8232-interface-arduino/">https://theorycircuit.com/arduino-projects/heart-rate-monitor-ad8232-interface-arduino/</a></p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/AD8232-Pinout.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/IMG_1492.JPG" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/heart-rate-sensor-arduino.png" alt=""><figcaption><p><a href="https://theorycircuit.com/arduino-projects/heart-rate-monitor-ad8232-interface-arduino/">https://theorycircuit.com/arduino-projects/heart-rate-monitor-ad8232-interface-arduino/</a></p></figcaption></figure></div>
 
 ## Arduino to Touchdesigner
 
@@ -65,4 +53,4 @@ The heart beat pattern expanded more based on the weight of the bass drum.
 
 The connection of the green wire is not very accurate, I have to press it to make it read the signal. maybe because the pad is not sticky any more.
 
-\
+<br>

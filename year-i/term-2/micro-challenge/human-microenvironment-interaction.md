@@ -22,14 +22,12 @@ Kevin Enriquez: [https://mdef02-kevin-enriquez.gitbook.io/mdef02-kevin-enriquez]
 
 Ziming Shang: [https://smuzs-organization.gitbook.io/smuz-mdef](https://smuzs-organization.gitbook.io/smuz-mdef)
 
-Belen Comotto: [https://belcomotto.xyz/](https://belcomotto.xyz/)\
-
+Belen Comotto: [https://belcomotto.xyz/](https://belcomotto.xyz/)<br>
 {% endtab %}
 {% endtabs %}
 
-FABRICATION AND ITERATION PROCESS:\
-
-
+FABRICATION AND ITERATION PROCESS:<br>
+--------------------------------------
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd8_P6Af3DSDQ76HQaD2XAVxH1rGcT2x74BSMqgRJH1eILRSjqf7_AJvaSg_O_9yLhDnaagUc_sE9nOyar8ctlBuGEKQ8-FWJctsDJ2BUwmcha2LYw_a3tOCaDsE5Hjo3SlIGzcig?key=BHQqRDSUX02cc4oB01xG-iKB" alt=""><figcaption></figcaption></figure>
 
@@ -57,15 +55,13 @@ Recipe: 100g gelatin, 60g alginate, 550ml water — bring to a boil, then pour i
 
 The concept was to design a sort of colletto like structure — allowing the biomaterial to hold the sensor against the neck
 
-\
-
-
-
-
-\
-\
-
+<br>
 
 
 
 \
+<br>
+
+
+
+<br>
