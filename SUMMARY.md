@@ -42,6 +42,7 @@
   * [Thesis Project (Voice of Soil)](year-ii/thesis-project-voice-of-soil.md)
   * [Ecological Interaction](year-ii/ecological-interaction.md)
   * [Business Innovation](year-ii/business-innovation.md)
+  * [Embeded Programing](year-ii/embeded-programing.md)
 * [🎐 PUPA](pupa.md)
 * [🕉️ PROJECTS ＳⲠⲠϋ☡](projects-y/README.md)
   * [NOMAD IMPROVISATION TATTOO](projects-y/nomad-improvisation-tattoo.md)
