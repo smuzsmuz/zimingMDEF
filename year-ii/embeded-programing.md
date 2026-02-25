@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Embeded Programing
 
 1. Learning the basic of computer
@@ -129,3 +133,57 @@ void loop() {
 }
 
 ```
+
+***
+
+## Individual assignment
+
+* Write and test a program for an embedded system using a microcontroller to interact (with local input &/or output devices) and communicate (with remote wired or wireless connections)
+
+#### Interact with ESP32 , touch the board and make it blink and sing
+
+```cpp
+
+
+#include "Arduino.h"
+
+int threshold = 1500;  
+bool touch1detected = false;
+
+void gotTouch1() {
+  touch1detected = true;
+}
+
+
+void setup() {
+  Serial.begin(115200);
+  delay(1000);  
+
+  Serial.println("\n ESP32 Touch Interrupt Test\n");
+  touchAttachInterrupt(T7, gotTouch1, threshold);
+
+  pinMode(48,OUTPUT);
+}
+
+void loop() {
+  if (touch1detected) {
+    touch1detected = false;
+    if (touchInterruptGetLastStatus(T7)) {
+      digitalWrite(48,HIGH);
+
+      tone(46,400,300);
+      tone(46,240,250);
+
+    } else {
+      digitalWrite(48,LOW);
+    }
+  }
+  
+  delay(100);
+
+}
+```
+
+{% embed url="https://vimeo.com/1168270596?fe=ci&fl=sv&share=copy" %}
+
+Above is the video of the interactive microcontroller
