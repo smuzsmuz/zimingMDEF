@@ -86,3 +86,27 @@ The week is to understant the cottage industrial in Benifallet, including visiti
 
 <kbd><mark style="color:$primary;">We traveled back to Tortosa and had lunch at Forn de Canoja. It is a cool place with many interesting paintings\~<mark style="color:$primary;"></kbd>
 
+***
+
+## Presentation
+
+<h3 align="center">Abstract:</h3>
+
+The soil in the Terres de l’Ebre is very fertile but is degraded by salinity, subsidence, erosion, compaction and nutrient imbalances, driven by irrigation overuse, dam-induced sediment deficits (99% trapped), sea intrusion, and climate change (droughts, SLR).&#x20;
+
+This project aims to use soil ecoacoustic tools as a non-invasive method to monitor and support soil restoration. A smartphone-based device (application on smartphone and external geophone attached) records soil acoustic activity linked to biological processes and AI analyzes frequency patterns associated with soil health. Farmers can use this tool to diagnose current soil state and decide treatment to soil. The soil sound recording also helps the local users to be able to listen to invisible soil activities, and make connection with soil that they are working with/ living on in a different way in everyday life.
+
+The application of the device is seasonally adjusted to account for variations in soil moisture, temperature, and biological dynamics, optimizing effectiveness while minimizing disturbance. This approach aims to provide an accessible, low-cost tool for soil assessment and restoration in the Terres de l’Ebre, contributing to improved soil resilience and sustainable land management.
+
+
+
+<h3 align="center">Soil EcoAcoustic</h3>
+
+{% embed url="https://docs.google.com/presentation/d/1sPtdoOt26Drh3t9W2rjQUTFqAafdmFPAXrWGjOY30ME/edit?usp=drive_link" %}
+
+<h3 align="center">Poster</h3>
+
+<figure><img src="../.gitbook/assets/Poster.jpg" alt=""><figcaption></figcaption></figure>
+
+{% file src="../.gitbook/assets/Poster.jpg" %}
+
