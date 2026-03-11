@@ -51,3 +51,27 @@ It can be used as rectifying AC to DC, protecting circuits from reverse voltage,
 <figure><img src="../../.gitbook/assets/WhatsApp Image 2026-03-04 at 23.55.56.jpeg" alt=""><figcaption></figcaption></figure>
 
 We learned the circuit from how to draw a diagram into build it by hand to understand it. We use power bank of 5V for power supply, and connect a LED with a switch, which can turn it on by pressing it, with a resistantor to control the flow of current so that the electricity will not burn the cuircuit and the LED.
+
+By using the multimeter from A to B, B to C, we can calculate how much resistor we can use.
+
+#### Example in class
+
+On Kicad, first we need to design the schematic of the PCB.
+
+We can find the components with ctrl + A
+
+By understanding each component by reading the datasheet, we need to match each pin to each other.
+
+<figure><img src="../../.gitbook/assets/Screenshot 2026-02-27 130326.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Screenshot 2026-02-27 130217.png" alt=""><figcaption></figcaption></figure>
+
+
+
+***
+
+### Homework
+
+#### Designing a PCB with an audio jack as input, and an amplified speaker as output
+
+{% embed url="https://wiki.seeedstudio.com/xiao_esp32s3_pin_multiplexing/" %}

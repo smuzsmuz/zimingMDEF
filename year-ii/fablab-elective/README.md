@@ -1,3 +1,3 @@
 # FabLab elective
 
-<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Embeded Programing</td><td><a href="../embeded-programing.md">embeded-programing.md</a></td><td><a href="../../.gitbook/assets/Screenshot 2026-02-12 120147.png">Screenshot 2026-02-12 120147.png</a></td></tr><tr><td>Electronic Design</td><td><a href="electronic-design.md">electronic-design.md</a></td><td><a href="../../.gitbook/assets/Screenshot 2026-02-27 130217.png">Screenshot 2026-02-27 130217.png</a></td></tr><tr><td>Electronic Production</td><td><a href="electronic-production.md">electronic-production.md</a></td><td></td></tr></tbody></table>
