@@ -89,3 +89,7 @@ with Adafruit I2S connecting to XIAO ESP32S3 everything got simplified
 The PCB editor is like this
 
 <figure><img src="../../.gitbook/assets/Screenshot 2026-03-11 194743.png" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://cdn-learn.adafruit.com/downloads/pdf/i2s-amplifier-bff.pdf" %}
+
+Adafruit I2S Amplifier will connect directly to XIAO ESP32S3
