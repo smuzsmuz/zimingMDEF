@@ -72,6 +72,20 @@ By understanding each component by reading the datasheet, we need to match each 
 
 ### Homework
 
-#### Designing a PCB with an audio jack as input, and an amplified speaker as output
+#### Designing a PCB with an microphone as input, and an amplified speaker as output
 
 {% embed url="https://wiki.seeedstudio.com/xiao_esp32s3_pin_multiplexing/" %}
+
+At first I choose to use eletrect microphone-->Amplifier-->ATiny412-->Amplifier-->Speaker, but the chip is too small to be fabricated in FabLab. As the suggestion from Dani, I change it to [Adafruit I2S MEMS Microphone Breakout - ICS-43434 PCB](https://github.com/adafruit/Adafruit-I2S-MEMS-Microphone-Breakout-PCB?tab=readme-ov-file)-->[XIAO ESP32S3](https://wiki.seeedstudio.com/xiao_esp32s3_pin_multiplexing/)-->Adafruit I2S Amplifier
+
+The first version was very complicated
+
+<figure><img src="../../.gitbook/assets/homework.png" alt=""><figcaption></figcaption></figure>
+
+with Adafruit I2S connecting to XIAO ESP32S3 everything got simplified
+
+<figure><img src="../../.gitbook/assets/hw1.png" alt=""><figcaption></figcaption></figure>
+
+The PCB editor is like this
+
+<figure><img src="../../.gitbook/assets/Screenshot 2026-03-11 194743.png" alt=""><figcaption></figcaption></figure>
