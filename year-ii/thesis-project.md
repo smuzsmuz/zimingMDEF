@@ -1,8 +1,10 @@
+---
+description: Discoverying in Spontaneity
+---
+
 # Thesis Project
 
 ## Abstract
-
-
 
 ***
 
@@ -12,6 +14,26 @@ The core hypothesis suggests that each moment is a fluid intersection of past ex
 
 Improvisation in this research is to play with self-invention with heart, mind and body using objects/instruments as extension of expression to collaborate with partner and environment to experience unity or chaos.&#x20;
 
-{% embed url="https://www.figma.com/board/NiQEkR7uBis96JAWpOGv1d/MID-thesis?t=ae6F7y4wlBDdCmvS-1" %}
+***
 
-<br>
+#### Experiment 00 ()
+
+<div><figure><img src="../.gitbook/assets/WhatsApp Image 2026-02-22  (1).jpeg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/WhatsApp Image 2026-02-22 at 2 (1).jpeg" alt=""><figcaption></figcaption></figure></div>
+
+<div><figure><img src="../.gitbook/assets/WhatsApp Image 2026-02-22 at 21.17..jpeg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/WhatsApp Image 2026-02-22 at 21.17.16.jpeg" alt=""><figcaption></figcaption></figure></div>
+
+32 experiments of improvised drawing by myself. Documented with location and my feelings.
+
+Goal is to observe how my different emotions affect my movement of hand in drawing, relfection in patterns, lines, structure of the graphic
+
+#### Experiement 01
+
+To observe in 1-on-1 non-verbal improvised communication, me-vocalist, Veza-dancer
+
+How do we communicate with intuition? Words and language are set with many symbols, by using non-verbal language, are we expressing more of what we want to express?
+
+Documentation:
+
+Sound frequency, sound recording, interview of dancer and vocalist, video recording
+
+I want to use thermal camera, and heart beat sensor. (need further asking for help with technological issue)
