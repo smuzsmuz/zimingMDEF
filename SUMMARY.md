@@ -46,6 +46,7 @@
     * [Embeded Programing](year-ii/embeded-programing.md)
     * [Electronic Design](year-ii/fablab-elective/electronic-design.md)
     * [Electronic Production](year-ii/fablab-elective/electronic-production.md)
+    * [Networking and Communication](year-ii/fablab-elective/networking-and-communication.md)
   * [Embeded Programing](year-ii/embeded-programing.md)
 * [🎐 PUPA](pupa.md)
 * [🕉️ PROJECTS ＳⲠⲠϋ☡](projects-y/README.md)
