@@ -9,10 +9,15 @@ description: Discoverying in Spontaneity
 ***
 
 \
-This research explores improvisation as a transformative practice for personal and collaborative awareness. By examining improvisation as a dynamic method of self-discovery, the study proposes that spontaneous engagement with one's environment can reveal and reshape habitual patterns of thought and movement. The research posits that improvisation serves as a philosophical and artistic approach to understanding individual experiences within the broader context of societal and historical consciousness.\
-The core hypothesis suggests that each moment is a fluid intersection of past experiences and future possibilities, with improvisation acting as a mechanism to align personal rhythms with broader social and ecological contexts. Through intentional practices of bodily and mental exploration, individuals can develop heightened self-awareness, emotional expression, and adaptive capacities.&#x20;
+As the world changes at an ever-accelerating pace — war, shifting political powers, rising prices, evolving public opinion — these forces inevitably shape how people experience daily life. For artists, designers, and creators, this reality carries a special expression, where we are the recorder and leader of the inner changes of humanity in the current time. There is a growing need not only to live with awareness, but to express our inner states in ways that remind one another: we are not alone in this.
 
-Improvisation in this research is to play with self-invention with heart, mind and body using objects/instruments as extension of expression to collaborate with partner and environment to experience unity or chaos.&#x20;
+At the same time, we must tend to our inner worlds, which are in constant motion — reacting, absorbing, and responding to the turbulence around us. How do we find a way internally in our soul to establish a balancing awareness among the turbulences in life?
+
+The hypothesis is through the practice of non-verbal improvisation as a mode of expression and connection to discover the habits and patterns. Through improvised drawing, movement, and vocalization, it examines how individuals express themselves in the moment and how that expression influences others to respond. The experiment focused the study in five key areas: non-verbal improvisation, embodiment and movement, resonance as a bridge, movement tracking and symbolic patterns , and poetic experience. The case study is experiments within a dancer and a vocalist, in a private room. The vocalist makes sound and corresponds with the movement of the dancer, while the dancer changes her body movement of intuition.&#x20;
+
+Based on these experiments, the research is coming to the result of designing a ritual to reach inner stability by practicing non-verbal communication with the summary of what works and what does not work.
+
+
 
 ***
 
