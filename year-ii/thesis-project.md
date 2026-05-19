@@ -1,5 +1,7 @@
 ---
-description: Discoverying in Spontaneity
+description: >-
+  Space for intuition-A ritual of inner practice on improvised, non-verbal
+  communication in deep listening.
 ---
 
 # Thesis Project
