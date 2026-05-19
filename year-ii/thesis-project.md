@@ -26,6 +26,8 @@ Improvisation in this research is to play with self-invention with heart, mind a
 
 Goal is to observe how my different emotions affect my movement of hand in drawing, relfection in patterns, lines, structure of the graphic
 
+***
+
 #### Experiement 01
 
 To observe in 1-on-1 non-verbal improvised communication, me-vocalist, Veza-dancer
@@ -37,3 +39,16 @@ Documentation:
 Sound frequency, sound recording, interview of dancer and vocalist, video recording
 
 I want to use thermal camera, and heart beat sensor. (need further asking for help with technological issue)
+
+{% embed url="https://www.youtube.com/watch?v=tKHOTkPb-0g" %}
+
+
+
+***
+
+#### Experiement 02
+
+Daily vocal practice, breathing practice, opening voice, stability of vocalizing
+
+
+
